@@ -238,4 +238,5 @@ Extent HTML Report generated inside:
 
 # Sample Report
 
-<img width="1919" height="1031" alt="Screenshot_298" src="https://github.com/user-attachments/assets/63c7922c-08d4-4f0d-a2f8-b9112c1545cf" />
+<img width="1916" height="1031" alt="Screenshot_290" src="https://github.com/user-attachments/assets/ba1b9627-77bd-43fe-928e-ae8c80adbcc7" />
+
