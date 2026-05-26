@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f20fe8bb-70d4-4e2e-bc31-d20a71af1b97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3Dzl0GknM2i2nU0lszN7LhD4FKn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.ApplyPriceFilterTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApplyPriceFilterTest.verifyUserCanApplyPriceFilter.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/himal/OneDrive/Desktop/Daraz_Automation/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EndToEndFlowTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EndToEndFlowTest.verifyCompleteShoppingFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ImageGalleryTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ImageGalleryTest.verifyThumbnailImageChangesMainImage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InvalidSearchTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InvalidSearchTest.verifyInvalidSearchShowsNoResults.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OpenProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OpenProductTest.verifyUserCanOpenFirstProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PaginationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PaginationTest.verifyUserCanNavigateToNextPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchProductTest.verifyValidProductSearch.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SortProductsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SortProductsTest.verifyUserCanSortProductsByPriceLowToHigh.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyProductDetailsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyProductDetailsTest.verifyProductDetailsAreDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Users/himal/OneDrive/Desktop/Daraz_Automation/testng.xml">
+    <configuration name="C:/Users/himal/OneDrive/Desktop/Daraz_Automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Daraz_Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndToEndFlowTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Daraz_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daraz.automation.tests.e2e.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daraz.automation.tests.e2e" />
+      <option name="MAIN_CLASS_NAME" value="com.daraz.automation.tests.e2e.EndToEndFlowTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageGalleryTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Daraz_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daraz.automation.tests.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daraz.automation.tests.product" />
+      <option name="MAIN_CLASS_NAME" value="com.daraz.automation.tests.product.ImageGalleryTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaginationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Daraz_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daraz.automation.tests.paginations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daraz.automation.tests.paginations" />
+      <option name="MAIN_CLASS_NAME" value="com.daraz.automation.tests.paginations.PaginationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyProductDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Daraz_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daraz.automation.tests.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daraz.automation.tests.product" />
+      <option name="MAIN_CLASS_NAME" value="com.daraz.automation.tests.product.VerifyProductDetailsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/himal/OneDrive/Desktop/Daraz_Automation/testng.xml" />
+        <item itemvalue="TestNG.EndToEndFlowTest" />
+        <item itemvalue="TestNG.PaginationTest" />
+        <item itemvalue="TestNG.ImageGalleryTest" />
+        <item itemvalue="TestNG.VerifyProductDetailsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f20fe8bb-70d4-4e2e-bc31-d20a71af1b97" name="Changes" comment="" />
+      <created>1779292555781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779292555781</updated>
+      <workItem from="1779292557345" duration="1893000" />
+      <workItem from="1779307424259" duration="131000" />
+      <workItem from="1779342188015" duration="12678000" />
+      <workItem from="1779379609122" duration="16051000" />
+      <workItem from="1779642913300" duration="1208000" />
+      <workItem from="1779688146267" duration="5909000" />
+      <workItem from="1779705180635" duration="5652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

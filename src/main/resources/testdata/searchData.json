@@ -1,0 +1,104 @@
+[
+  {
+    "testId": "TC-001",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-002",
+
+    "testData": [
+
+      {
+        "searchKeyword": "ace135xyz"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-003",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop",
+        "minPrice": "100000",
+        "maxPrice": "500000"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-004",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-005",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-006",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-007",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-008",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop"
+      }
+    ]
+  },
+
+  {
+    "testId": "TC-009",
+
+    "testData": [
+
+      {
+        "searchKeyword": "laptop",
+        "minPrice": "100000",
+        "maxPrice": "500000"
+      }
+    ]
+  }
+]
